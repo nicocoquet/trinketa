@@ -35,7 +35,12 @@ jobs:
           cache: pip
 
       - name: Installer les dépendances
-        run: python -m pip install -r requirements.txt
+        run: python -m pip install -r requirements.txt -r requirements-isbn.txt -r service/requirements.txt
+
+      - name: Vérifier le code du dépôt ISBN
+        run: |
+          python -m py_compile scripts/*.py service/*.py
+          python -m unittest discover -s tests
 
       - name: Intégrer les notices du pipeline ISBN
         run: python scripts/apply_bibliotheque_pipeline.py
