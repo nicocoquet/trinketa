@@ -195,6 +195,28 @@
   letter-spacing: .06em;
   text-transform: uppercase;
 }
+.library-isbn-entry {
+  min-height: 2.7rem;
+  padding: .65rem 1rem;
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: #fff;
+  text-decoration: none;
+  box-shadow: 0 5px 16px color-mix(in srgb, var(--accent) 18%, transparent);
+  transition: background-color .18s ease, border-color .18s ease, transform .18s ease;
+}
+.library-isbn-entry:hover {
+  border-color: color-mix(in srgb, var(--accent) 82%, #000);
+  background: color-mix(in srgb, var(--accent) 82%, #000);
+  color: #fff;
+  transform: translateY(-1px);
+}
+.library-isbn-entry:focus-visible {
+  outline: 3px solid color-mix(in srgb, var(--accent) 32%, transparent);
+  outline-offset: 3px;
+}
+.library-isbn-entry span { transition: transform .18s ease; }
+.library-isbn-entry:hover span { transform: translateX(.18rem); }
 .isbn-deposit {
   --isbn-border: color-mix(in srgb, var(--ink) 18%, transparent);
   --isbn-soft: color-mix(in srgb, var(--accent) 9%, var(--md-default-bg-color));
