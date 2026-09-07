@@ -2,7 +2,7 @@
   <header class="isbn-intro">
     <p class="isbn-kicker">Bibliothèque · Ajout d’ouvrages</p>
     <h1>Dépôt par ISBN</h1>
-    <p>Photographiez les codes-barres ISBN : Trinketa se charge de préparer les fiches bibliographiques.</p>
+    <p>Photographiez les codes-barres ISBN : Baboulinet se charge de préparer les fiches bibliographiques.</p>
   </header>
 
   <div class="isbn-deposit" data-isbn-deposit>
@@ -45,7 +45,7 @@
       <p class="isbn-step">Étape 2</p>
       <h2 id="isbn-analysis-title">Préparer les fiches bibliographiques</h2>
       <p class="isbn-queue"><strong data-queue-count>—</strong> photographie(s) en attente d’analyse.</p>
-      <p>Trinketa lit les ISBN, recherche les informations bibliographiques et prépare les nouvelles fiches. Si un doute subsiste, la photographie est simplement mise de côté pour vérification.</p>
+      <p>Baboulinet lit les ISBN, recherche les informations bibliographiques et prépare les nouvelles fiches. Si un doute subsiste, la photographie est simplement mise de côté pour vérification.</p>
       <button type="button" class="isbn-button" data-analyse disabled>Analyser les photographies</button>
       <p class="isbn-status" data-analysis-status role="status" aria-live="polite"></p>
       <a class="isbn-actions-link" href="https://github.com/nicocoquet/trinketa/actions/workflows/analyse-isbn.yml" target="_blank" rel="noopener">Voir l’historique des traitements <span>→</span></a>
