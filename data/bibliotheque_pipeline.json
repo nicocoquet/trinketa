@@ -30,5 +30,28 @@
     "Confiance_notice": "Élevée",
     "Notes_controle": "ISBN lu et validé automatiquement depuis la photographie. Pagination retenue : 188 p. selon BNFA et plusieurs libraires ; l’éditeur indique actuellement 192 p.",
     "Publie": "Oui"
+  },
+  {
+    "ISBN": "9782862760902",
+    "ISBN_13": "9782862760902",
+    "ISBN_10": "2862760900",
+    "Auteur_editeur_scientifique": "Robert Bouvier",
+    "Titre": "Le parler marseillais",
+    "Type_document": "Ouvrage",
+    "Editeur": "Editions J. Laffitte",
+    "Lieu_publication": "Marseille",
+    "Date_publication": "1985",
+    "Nbr_pages": 169,
+    "Sujet": "Dialects; Dictionaries; French language; Glossaries, vocabularies; Occitan language; Popular culture; Provincialisms; Slang; Social life and customs",
+    "Mots_cles": "Dialects; Dictionaries; French language; Glossaries, vocabularies; Occitan language; Popular culture; Provincialisms; Slang; Social life and customs",
+    "Source_notice": "Open Library",
+    "Identifiant_notice": "/books/OL2623936M",
+    "URL_notice": "http://openlibrary.org/books/OL2623936M/Le_parler_marseillais",
+    "Statut_notice": "Proposition à valider",
+    "Confiance_notice": "Moyenne",
+    "Publie": "Oui",
+    "ID": "BIB-004",
+    "Localisation": "Bureau",
+    "Notes_controle": "ISBN contrôlé ; une notice bibliographique concordante a été trouvée."
   }
 ]
