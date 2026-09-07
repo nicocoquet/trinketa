@@ -10,8 +10,7 @@
     login: root.querySelector("[data-login]"), logout: root.querySelector("[data-logout]"),
     sessionLabel: root.querySelector("[data-session-label]"), drop: root.querySelector("[data-drop]"),
     input: root.querySelector("[data-file-input]"), select: root.querySelector("[data-select]"),
-    files: root.querySelector("[data-files]"), public: root.querySelector("[data-public]"),
-    confirm: root.querySelector("[data-confirm]"), upload: root.querySelector("[data-upload]"),
+    files: root.querySelector("[data-files]"), upload: root.querySelector("[data-upload]"),
     uploadStatus: root.querySelector("[data-upload-status]"), uploadResult: root.querySelector("[data-upload-result]"),
     prLink: root.querySelector("[data-pr-link]"), queueCount: root.querySelector("[data-queue-count]"),
     analyse: root.querySelector("[data-analyse]"), analysisStatus: root.querySelector("[data-analysis-status]"),
@@ -53,7 +52,7 @@
   }
   function updateControls() {
     const authorized = Boolean(state.user && allowedUsers.has(state.user.login.toLowerCase()));
-    elements.upload.disabled = !(authorized && state.files.length && !state.files.some(validFile) && elements.confirm.checked);
+    elements.upload.disabled = !(authorized && state.files.length && !state.files.some(validFile));
     elements.analyse.disabled = !authorized;
   }
   function renderFiles() {
@@ -70,9 +69,7 @@
     });
     const hasFiles = state.files.length > 0;
     elements.files.hidden = !hasFiles;
-    elements.public.hidden = !hasFiles;
     elements.uploadResult.hidden = true;
-    if (!hasFiles) elements.confirm.checked = false;
     if (state.files.some(validFile)) setStatus(elements.uploadStatus, "Retirez les images signalées avant l’envoi.", "error");
     else if (hasFiles) setStatus(elements.uploadStatus, `${state.files.length} photographie(s) prête(s) à être déposée(s).`);
     updateControls();
@@ -129,16 +126,16 @@
   }
   async function upload() {
     elements.upload.disabled = true;
-    setStatus(elements.uploadStatus, "Envoi des photographies et création de la pull request…");
+    setStatus(elements.uploadStatus, "Envoi sécurisé des photographies…");
     try {
       const files = await Promise.all(state.files.map(async (file) => ({ filename: file.name, content: await readAsBase64(file) })));
       const result = await api("/api/uploads", { method: "POST", body: JSON.stringify({ files }) });
       elements.prLink.href = result.pullRequest.url;
-      elements.prLink.textContent = `Ouvrir la pull request nº ${result.pullRequest.number} →`;
+      elements.prLink.textContent = `Ouvrir et valider l’ajout nº ${result.pullRequest.number} →`;
       state.files = [];
       renderFiles();
       elements.uploadResult.hidden = false;
-      setStatus(elements.uploadStatus, "Pull request créée avec succès.", "success");
+      setStatus(elements.uploadStatus, "Photographies envoyées avec succès.", "success");
     } catch (error) {
       setStatus(elements.uploadStatus, error.message, "error");
       updateControls();
@@ -146,10 +143,10 @@
   }
   async function analyse() {
     elements.analyse.disabled = true;
-    setStatus(elements.analysisStatus, "Démarrage du traitement GitHub…");
+    setStatus(elements.analysisStatus, "Préparation de l’analyse…");
     try {
       const result = await api("/api/analysis", { method: "POST" });
-      setStatus(elements.analysisStatus, "Analyse lancée. Une pull request de validation sera créée à la fin du traitement.", "success");
+      setStatus(elements.analysisStatus, "Analyse lancée. Une proposition de fiches sera préparée à la fin du traitement.", "success");
       window.open(result.actionsUrl, "_blank", "noopener");
     } catch (error) {
       setStatus(elements.analysisStatus, error.message, "error");
@@ -165,7 +162,6 @@
   });
   elements.select.addEventListener("click", (event) => { event.stopPropagation(); elements.input.click(); });
   elements.input.addEventListener("change", () => selectFiles([...elements.input.files]));
-  elements.confirm.addEventListener("change", updateControls);
   elements.upload.addEventListener("click", upload);
   elements.analyse.addEventListener("click", analyse);
   elements.drop.addEventListener("click", (event) => { if (event.target === elements.drop) elements.input.click(); });
