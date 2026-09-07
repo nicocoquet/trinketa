@@ -4,6 +4,9 @@ Ce service conserve les secrets GitHub hors de GitHub Pages. Il authentifie le
 collaborateur, crée une branche et une pull request pour les images déposées,
 puis peut déclencher le workflow d’analyse ISBN.
 
+Toutes les images sont réorientées, converties en JPEG et débarrassées de leurs
+métadonnées avant leur écriture dans le dépôt public.
+
 Variables Render :
 
 ```text
