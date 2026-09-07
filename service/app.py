@@ -8,6 +8,7 @@ import os
 import secrets
 import time
 from dataclasses import dataclass
+from io import BytesIO
 from pathlib import PurePath
 from typing import Any
 from urllib.parse import quote, urlencode, urlparse
@@ -17,6 +18,11 @@ from fastapi import Depends, FastAPI, Header, HTTPException, Query, Response
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import RedirectResponse
 from pydantic import BaseModel
+from PIL import Image, ImageOps, UnidentifiedImageError
+from pillow_heif import register_heif_opener
+
+register_heif_opener()
+Image.MAX_IMAGE_PIXELS = 60_000_000
 
 GITHUB_API = "https://api.github.com"
 GITHUB_ACCEPT = "application/vnd.github+json"
@@ -144,6 +150,27 @@ def validate_image(name: str, content: bytes) -> None:
         raise HTTPException(status_code=400, detail=f"{name} ne correspond pas à un fichier image valide.")
 
 
+def normalize_to_jpeg(name: str, content: bytes) -> tuple[str, bytes]:
+    """Normalise l’image et supprime toutes ses métadonnées avant GitHub."""
+    try:
+        with Image.open(BytesIO(content)) as source:
+            source.load()
+            image = ImageOps.exif_transpose(source)
+            if image.mode in {"RGBA", "LA"} or (image.mode == "P" and "transparency" in image.info):
+                rgba = image.convert("RGBA")
+                background = Image.new("RGB", rgba.size, "white")
+                background.paste(rgba, mask=rgba.getchannel("A"))
+                image = background
+            else:
+                image = image.convert("RGB")
+            image.thumbnail((3200, 3200), Image.Resampling.LANCZOS)
+            output = BytesIO()
+            image.save(output, format="JPEG", quality=92, optimize=True, progressive=True)
+    except (UnidentifiedImageError, OSError, ValueError, Image.DecompressionBombError) as error:
+        raise HTTPException(status_code=400, detail=f"Conversion impossible pour {name}.") from error
+    return f"{PurePath(name).stem}.jpg", output.getvalue()
+
+
 async def github_request(method: str, path: str, token: str | None = None, allow_404: bool = False, **kwargs: Any) -> Any:
     headers = {"Accept": GITHUB_ACCEPT, "X-GitHub-Api-Version": "2026-03-10"}
     if token:
@@ -259,8 +286,11 @@ def create_app(settings: Settings | None = None) -> FastAPI:
             if not content or len(content) > MAX_FILE_SIZE:
                 raise HTTPException(status_code=400, detail=f"{name} doit peser entre 1 octet et 15 Mo.")
             validate_image(name, content)
-            total += len(content)
-            decoded.append((name, content))
+            jpeg_name, jpeg_content = normalize_to_jpeg(name, content)
+            if jpeg_name.casefold() in {existing_name.casefold() for existing_name, _ in decoded}:
+                raise HTTPException(status_code=400, detail=f"Plusieurs images produiraient le nom {jpeg_name}.")
+            total += len(jpeg_content)
+            decoded.append((jpeg_name, jpeg_content))
         if total > MAX_BATCH_SIZE:
             raise HTTPException(status_code=400, detail="L’envoi complet dépasse 50 Mo.")
 
