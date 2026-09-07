@@ -1,9 +1,11 @@
 import time
 import unittest
+from io import BytesIO
 
 from fastapi import HTTPException
+from PIL import Image
 
-from service.app import Settings, allowed_return_url, safe_filename, sign_payload, verify_payload
+from service.app import Settings, allowed_return_url, normalize_to_jpeg, safe_filename, sign_payload, verify_payload
 
 
 class DepositServiceTests(unittest.TestCase):
@@ -23,6 +25,17 @@ class DepositServiceTests(unittest.TestCase):
 
     def test_filename_accepts_supported_image(self):
         self.assertEqual(safe_filename("isbn-9782853137119.JPG"), "isbn-9782853137119.JPG")
+
+    def test_image_is_normalized_without_metadata(self):
+        source = BytesIO()
+        image = Image.new("RGB", (40, 30), "white")
+        image.save(source, format="PNG", pnginfo=None)
+        name, content = normalize_to_jpeg("photo.png", source.getvalue())
+        self.assertEqual(name, "photo.jpg")
+        with Image.open(BytesIO(content)) as normalized:
+            self.assertEqual(normalized.format, "JPEG")
+            self.assertEqual(normalized.mode, "RGB")
+            self.assertFalse(normalized.getexif())
 
 
 if __name__ == "__main__":
