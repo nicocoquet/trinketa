@@ -14,7 +14,7 @@ GitHub est obligatoire et réservée aux collaborateurs autorisés.
   <section class="isbn-panel" aria-labelledby="isbn-upload-title">
     <p class="isbn-step">01 · Dépôt</p>
     <h2 id="isbn-upload-title">Ajouter des photographies</h2>
-    <p>Déposez jusqu’à dix photographies de codes-barres. Une pull request sera créée afin de respecter la protection de la branche principale.</p>
+    <p>Déposez jusqu’à dix photographies de codes-barres. Elles seront converties en JPEG, réorientées et débarrassées de leurs métadonnées avant la création de la pull request.</p>
     <div class="isbn-drop" data-drop role="button" tabindex="0" aria-label="Sélectionner ou déposer des photographies ISBN">
       <span class="isbn-camera" aria-hidden="true">▣</span>
       <strong>Glissez les images ici</strong>
