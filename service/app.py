@@ -13,7 +13,7 @@ from typing import Any
 from urllib.parse import quote, urlencode, urlparse
 
 import httpx
-from fastapi import Depends, FastAPI, Header, HTTPException, Query
+from fastapi import Depends, FastAPI, Header, HTTPException, Query, Response
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import RedirectResponse
 from pydantic import BaseModel
@@ -229,9 +229,10 @@ def create_app(settings: Settings | None = None) -> FastAPI:
     async def session(data: tuple[str, dict[str, Any]] = Depends(current_session)) -> dict[str, Any]:
         return {"user": {"login": data[1]["login"], "permission": data[1]["permission"]}}
 
-    @app.post("/auth/logout", status_code=204)
-    async def logout(data: tuple[str, dict[str, Any]] = Depends(current_session)) -> None:
+    @app.post("/auth/logout", status_code=204, response_class=Response)
+    async def logout(data: tuple[str, dict[str, Any]] = Depends(current_session)) -> Response:
         sessions.delete(data[0])
+        return Response(status_code=204)
 
     @app.get("/api/queue")
     async def queue(data: tuple[str, dict[str, Any]] = Depends(current_session)) -> dict[str, Any]:
