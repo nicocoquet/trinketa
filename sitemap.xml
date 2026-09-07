@@ -2,15 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://nicocoquet.github.io/trinketa/contatto/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/contatto/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/contatto/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/contatto/"/>
     </url>
     <url>
+        <loc>https://nicocoquet.github.io/trinketa/depot-isbn/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/depot-isbn/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/depot-isbn/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/depot-isbn/"/>
+    </url>
+    <url>
         <loc>https://nicocoquet.github.io/trinketa/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/"/>
@@ -18,7 +26,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/statistiche/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/statistiche/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/statistiche/"/>
@@ -26,7 +34,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/biblioteca/BIB-001/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/biblioteca/BIB-001/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/biblioteca/BIB-001/"/>
@@ -34,7 +42,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/biblioteca/BIB-002/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/biblioteca/BIB-002/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/biblioteca/BIB-002/"/>
@@ -42,7 +50,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/biblioteca/BIB-003/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/biblioteca/BIB-003/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/biblioteca/BIB-003/"/>
@@ -50,7 +58,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/biblioteca/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/biblioteca/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/biblioteca/"/>
@@ -58,7 +66,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-001/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-001/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-001/"/>
@@ -66,7 +74,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-002/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-002/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-002/"/>
@@ -74,7 +82,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-003/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-003/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-003/"/>
@@ -82,7 +90,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-004/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-004/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-004/"/>
@@ -90,7 +98,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-005/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-005/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-005/"/>
@@ -98,7 +106,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-006/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-006/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-006/"/>
@@ -106,7 +114,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-007/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-007/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-007/"/>
@@ -114,7 +122,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-008/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-008/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-008/"/>
@@ -122,7 +130,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-009/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-009/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-009/"/>
@@ -130,7 +138,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-010/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-010/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-010/"/>
@@ -138,7 +146,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-011/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-011/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-011/"/>
@@ -146,7 +154,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-012/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-012/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-012/"/>
@@ -154,7 +162,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-013/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-013/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-013/"/>
@@ -162,7 +170,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-014/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-014/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-014/"/>
@@ -170,7 +178,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-015/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-015/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-015/"/>
@@ -178,7 +186,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-016/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-016/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-016/"/>
@@ -186,7 +194,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-017/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-017/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-017/"/>
@@ -194,7 +202,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-018/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-018/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-018/"/>
@@ -202,7 +210,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-019/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-019/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-019/"/>
@@ -210,7 +218,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-020/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-020/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-020/"/>
@@ -218,7 +226,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-021/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-021/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-021/"/>
@@ -226,7 +234,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-022/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-022/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-022/"/>
@@ -234,7 +242,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-023/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-023/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-023/"/>
@@ -242,7 +250,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-024/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-024/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-024/"/>
@@ -250,7 +258,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-025/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-025/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-025/"/>
@@ -258,7 +266,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-026/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-026/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-026/"/>
@@ -266,7 +274,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-027/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-027/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-027/"/>
@@ -274,7 +282,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-028/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-028/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-028/"/>
@@ -282,7 +290,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-029/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-029/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-029/"/>
@@ -290,7 +298,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-030/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-030/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-030/"/>
@@ -298,7 +306,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-031/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-031/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-031/"/>
@@ -306,7 +314,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-032/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-032/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-032/"/>
@@ -314,7 +322,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-033/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-033/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-033/"/>
@@ -322,7 +330,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-034/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-034/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-034/"/>
@@ -330,7 +338,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-035/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-035/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-035/"/>
@@ -338,7 +346,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-036/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-036/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-036/"/>
@@ -346,7 +354,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-037/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-037/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-037/"/>
@@ -354,7 +362,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-038/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-038/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-038/"/>
@@ -362,7 +370,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-039/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-039/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-039/"/>
@@ -370,7 +378,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-040/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-040/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-040/"/>
@@ -378,7 +386,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-041/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-041/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-041/"/>
@@ -386,7 +394,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-042/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-042/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-042/"/>
@@ -394,7 +402,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-043/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-043/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-043/"/>
@@ -402,7 +410,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-044/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-044/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-044/"/>
@@ -410,7 +418,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-045/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-045/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-045/"/>
@@ -418,7 +426,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-046/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-046/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-046/"/>
@@ -426,7 +434,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-047/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-047/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-047/"/>
@@ -434,7 +442,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-048/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-048/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-048/"/>
@@ -442,7 +450,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-049/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-049/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-049/"/>
@@ -450,7 +458,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-050/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-050/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-050/"/>
@@ -458,7 +466,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-051/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-051/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-051/"/>
@@ -466,7 +474,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-052/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-052/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-052/"/>
@@ -474,7 +482,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-053/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-053/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-053/"/>
@@ -482,7 +490,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-054/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-054/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-054/"/>
@@ -490,7 +498,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-055/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-055/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-055/"/>
@@ -498,7 +506,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-056/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-056/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-056/"/>
@@ -506,7 +514,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-057/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-057/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-057/"/>
@@ -514,7 +522,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-058/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-058/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-058/"/>
@@ -522,7 +530,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-059/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-059/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-059/"/>
@@ -530,7 +538,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-060/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-060/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-060/"/>
@@ -538,7 +546,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-061/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-061/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-061/"/>
@@ -546,7 +554,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-062/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-062/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-062/"/>
@@ -554,7 +562,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-063/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-063/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-063/"/>
@@ -562,7 +570,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-064/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-064/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-064/"/>
@@ -570,7 +578,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-065/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-065/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-065/"/>
@@ -578,7 +586,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-066/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-066/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-066/"/>
@@ -586,7 +594,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-067/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-067/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-067/"/>
@@ -594,7 +602,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-068/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-068/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-068/"/>
@@ -602,7 +610,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-069/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-069/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-069/"/>
@@ -610,7 +618,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-070/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-070/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-070/"/>
@@ -618,7 +626,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-071/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-071/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-071/"/>
@@ -626,7 +634,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-072/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-072/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-072/"/>
@@ -634,7 +642,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-073/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-073/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-073/"/>
@@ -642,7 +650,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-074/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-074/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-074/"/>
@@ -650,7 +658,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-075/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-075/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-075/"/>
@@ -658,7 +666,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-076/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-076/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-076/"/>
@@ -666,7 +674,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-077/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-077/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-077/"/>
@@ -674,7 +682,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-078/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-078/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-078/"/>
@@ -682,7 +690,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-079/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-079/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-079/"/>
@@ -690,7 +698,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-080/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-080/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-080/"/>
@@ -698,7 +706,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-081/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-081/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-081/"/>
@@ -706,7 +714,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-082/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-082/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-082/"/>
@@ -714,7 +722,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-083/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-083/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-083/"/>
@@ -722,7 +730,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-084/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-084/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-084/"/>
@@ -730,7 +738,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-085/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-085/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-085/"/>
@@ -738,7 +746,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-086/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-086/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-086/"/>
@@ -746,7 +754,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-087/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-087/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-087/"/>
@@ -754,7 +762,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-088/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-088/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-088/"/>
@@ -762,7 +770,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-089/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-089/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-089/"/>
@@ -770,7 +778,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-090/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-090/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-090/"/>
@@ -778,7 +786,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-091/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-091/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-091/"/>
@@ -786,7 +794,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-092/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-092/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-092/"/>
@@ -794,7 +802,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-093/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-093/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-093/"/>
@@ -802,7 +810,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-094/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-094/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-094/"/>
@@ -810,7 +818,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-095/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-095/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-095/"/>
@@ -818,7 +826,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-096/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-096/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-096/"/>
@@ -826,7 +834,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-097/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-097/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-097/"/>
@@ -834,7 +842,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-098/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-098/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-098/"/>
@@ -842,7 +850,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-099/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-099/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-099/"/>
@@ -850,7 +858,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-100/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-100/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-100/"/>
@@ -858,7 +866,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-101/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-101/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-101/"/>
@@ -866,7 +874,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-102/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-102/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-102/"/>
@@ -874,7 +882,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-103/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-103/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-103/"/>
@@ -882,7 +890,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-104/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-104/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-104/"/>
@@ -890,7 +898,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-105/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-105/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-105/"/>
@@ -898,7 +906,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-106/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-106/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-106/"/>
@@ -906,7 +914,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-107/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-107/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-107/"/>
@@ -914,7 +922,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-108/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-108/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-108/"/>
@@ -922,7 +930,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-109/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-109/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-109/"/>
@@ -930,7 +938,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/MOB-110/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-110/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-110/"/>
@@ -938,7 +946,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/inventario/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/"/>
@@ -946,15 +954,23 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/contatto/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/contatto/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/contatto/"/>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/contatto/"/>
     </url>
     <url>
+        <loc>https://nicocoquet.github.io/trinketa/en/depot-isbn/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/depot-isbn/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/depot-isbn/"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/depot-isbn/"/>
+    </url>
+    <url>
         <loc>https://nicocoquet.github.io/trinketa/en/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/"/>
@@ -962,7 +978,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/statistiche/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/statistiche/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/statistiche/"/>
@@ -970,7 +986,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/biblioteca/BIB-001/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/biblioteca/BIB-001/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/biblioteca/BIB-001/"/>
@@ -978,7 +994,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/biblioteca/BIB-002/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/biblioteca/BIB-002/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/biblioteca/BIB-002/"/>
@@ -986,7 +1002,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/biblioteca/BIB-003/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/biblioteca/BIB-003/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/biblioteca/BIB-003/"/>
@@ -994,7 +1010,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/biblioteca/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/biblioteca/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/biblioteca/"/>
@@ -1002,7 +1018,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-001/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-001/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-001/"/>
@@ -1010,7 +1026,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-002/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-002/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-002/"/>
@@ -1018,7 +1034,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-003/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-003/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-003/"/>
@@ -1026,7 +1042,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-004/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-004/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-004/"/>
@@ -1034,7 +1050,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-005/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-005/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-005/"/>
@@ -1042,7 +1058,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-006/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-006/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-006/"/>
@@ -1050,7 +1066,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-007/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-007/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-007/"/>
@@ -1058,7 +1074,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-008/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-008/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-008/"/>
@@ -1066,7 +1082,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-009/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-009/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-009/"/>
@@ -1074,7 +1090,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-010/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-010/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-010/"/>
@@ -1082,7 +1098,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-011/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-011/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-011/"/>
@@ -1090,7 +1106,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-012/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-012/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-012/"/>
@@ -1098,7 +1114,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-013/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-013/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-013/"/>
@@ -1106,7 +1122,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-014/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-014/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-014/"/>
@@ -1114,7 +1130,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-015/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-015/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-015/"/>
@@ -1122,7 +1138,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-016/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-016/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-016/"/>
@@ -1130,7 +1146,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-017/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-017/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-017/"/>
@@ -1138,7 +1154,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-018/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-018/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-018/"/>
@@ -1146,7 +1162,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-019/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-019/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-019/"/>
@@ -1154,7 +1170,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-020/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-020/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-020/"/>
@@ -1162,7 +1178,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-021/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-021/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-021/"/>
@@ -1170,7 +1186,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-022/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-022/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-022/"/>
@@ -1178,7 +1194,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-023/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-023/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-023/"/>
@@ -1186,7 +1202,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-024/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-024/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-024/"/>
@@ -1194,7 +1210,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-025/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-025/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-025/"/>
@@ -1202,7 +1218,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-026/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-026/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-026/"/>
@@ -1210,7 +1226,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-027/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-027/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-027/"/>
@@ -1218,7 +1234,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-028/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-028/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-028/"/>
@@ -1226,7 +1242,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-029/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-029/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-029/"/>
@@ -1234,7 +1250,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-030/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-030/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-030/"/>
@@ -1242,7 +1258,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-031/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-031/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-031/"/>
@@ -1250,7 +1266,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-032/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-032/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-032/"/>
@@ -1258,7 +1274,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-033/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-033/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-033/"/>
@@ -1266,7 +1282,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-034/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-034/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-034/"/>
@@ -1274,7 +1290,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-035/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-035/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-035/"/>
@@ -1282,7 +1298,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-036/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-036/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-036/"/>
@@ -1290,7 +1306,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-037/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-037/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-037/"/>
@@ -1298,7 +1314,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-038/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-038/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-038/"/>
@@ -1306,7 +1322,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-039/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-039/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-039/"/>
@@ -1314,7 +1330,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-040/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-040/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-040/"/>
@@ -1322,7 +1338,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-041/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-041/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-041/"/>
@@ -1330,7 +1346,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-042/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-042/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-042/"/>
@@ -1338,7 +1354,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-043/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-043/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-043/"/>
@@ -1346,7 +1362,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-044/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-044/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-044/"/>
@@ -1354,7 +1370,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-045/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-045/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-045/"/>
@@ -1362,7 +1378,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-046/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-046/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-046/"/>
@@ -1370,7 +1386,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-047/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-047/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-047/"/>
@@ -1378,7 +1394,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-048/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-048/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-048/"/>
@@ -1386,7 +1402,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-049/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-049/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-049/"/>
@@ -1394,7 +1410,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-050/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-050/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-050/"/>
@@ -1402,7 +1418,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-051/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-051/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-051/"/>
@@ -1410,7 +1426,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-052/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-052/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-052/"/>
@@ -1418,7 +1434,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-053/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-053/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-053/"/>
@@ -1426,7 +1442,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-054/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-054/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-054/"/>
@@ -1434,7 +1450,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-055/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-055/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-055/"/>
@@ -1442,7 +1458,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-056/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-056/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-056/"/>
@@ -1450,7 +1466,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-057/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-057/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-057/"/>
@@ -1458,7 +1474,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-058/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-058/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-058/"/>
@@ -1466,7 +1482,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-059/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-059/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-059/"/>
@@ -1474,7 +1490,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-060/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-060/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-060/"/>
@@ -1482,7 +1498,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-061/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-061/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-061/"/>
@@ -1490,7 +1506,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-062/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-062/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-062/"/>
@@ -1498,7 +1514,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-063/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-063/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-063/"/>
@@ -1506,7 +1522,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-064/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-064/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-064/"/>
@@ -1514,7 +1530,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-065/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-065/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-065/"/>
@@ -1522,7 +1538,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-066/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-066/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-066/"/>
@@ -1530,7 +1546,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-067/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-067/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-067/"/>
@@ -1538,7 +1554,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-068/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-068/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-068/"/>
@@ -1546,7 +1562,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-069/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-069/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-069/"/>
@@ -1554,7 +1570,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-070/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-070/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-070/"/>
@@ -1562,7 +1578,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-071/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-071/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-071/"/>
@@ -1570,7 +1586,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-072/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-072/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-072/"/>
@@ -1578,7 +1594,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-073/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-073/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-073/"/>
@@ -1586,7 +1602,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-074/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-074/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-074/"/>
@@ -1594,7 +1610,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-075/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-075/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-075/"/>
@@ -1602,7 +1618,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-076/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-076/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-076/"/>
@@ -1610,7 +1626,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-077/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-077/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-077/"/>
@@ -1618,7 +1634,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-078/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-078/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-078/"/>
@@ -1626,7 +1642,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-079/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-079/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-079/"/>
@@ -1634,7 +1650,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-080/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-080/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-080/"/>
@@ -1642,7 +1658,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-081/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-081/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-081/"/>
@@ -1650,7 +1666,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-082/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-082/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-082/"/>
@@ -1658,7 +1674,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-083/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-083/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-083/"/>
@@ -1666,7 +1682,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-084/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-084/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-084/"/>
@@ -1674,7 +1690,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-085/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-085/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-085/"/>
@@ -1682,7 +1698,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-086/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-086/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-086/"/>
@@ -1690,7 +1706,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-087/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-087/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-087/"/>
@@ -1698,7 +1714,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-088/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-088/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-088/"/>
@@ -1706,7 +1722,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-089/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-089/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-089/"/>
@@ -1714,7 +1730,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-090/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-090/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-090/"/>
@@ -1722,7 +1738,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-091/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-091/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-091/"/>
@@ -1730,7 +1746,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-092/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-092/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-092/"/>
@@ -1738,7 +1754,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-093/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-093/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-093/"/>
@@ -1746,7 +1762,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-094/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-094/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-094/"/>
@@ -1754,7 +1770,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-095/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-095/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-095/"/>
@@ -1762,7 +1778,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-096/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-096/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-096/"/>
@@ -1770,7 +1786,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-097/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-097/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-097/"/>
@@ -1778,7 +1794,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-098/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-098/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-098/"/>
@@ -1786,7 +1802,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-099/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-099/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-099/"/>
@@ -1794,7 +1810,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-100/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-100/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-100/"/>
@@ -1802,7 +1818,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-101/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-101/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-101/"/>
@@ -1810,7 +1826,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-102/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-102/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-102/"/>
@@ -1818,7 +1834,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-103/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-103/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-103/"/>
@@ -1826,7 +1842,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-104/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-104/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-104/"/>
@@ -1834,7 +1850,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-105/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-105/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-105/"/>
@@ -1842,7 +1858,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-106/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-106/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-106/"/>
@@ -1850,7 +1866,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-107/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-107/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-107/"/>
@@ -1858,7 +1874,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-108/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-108/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-108/"/>
@@ -1866,7 +1882,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-109/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-109/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-109/"/>
@@ -1874,7 +1890,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/MOB-110/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-110/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/MOB-110/"/>
@@ -1882,7 +1898,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/en/inventario/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/inventario/"/>
@@ -1890,15 +1906,23 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/contatto/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/contatto/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/contatto/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/contatto/"/>
     </url>
     <url>
+        <loc>https://nicocoquet.github.io/trinketa/it/depot-isbn/</loc>
+        <lastmod>2026-09-07</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/depot-isbn/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/depot-isbn/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://nicocoquet.github.io/trinketa/depot-isbn/"/>
+    </url>
+    <url>
         <loc>https://nicocoquet.github.io/trinketa/it/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/"/>
@@ -1906,7 +1930,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/statistiche/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/statistiche/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/statistiche/"/>
@@ -1914,7 +1938,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/biblioteca/BIB-001/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/biblioteca/BIB-001/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/biblioteca/BIB-001/"/>
@@ -1922,7 +1946,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/biblioteca/BIB-002/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/biblioteca/BIB-002/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/biblioteca/BIB-002/"/>
@@ -1930,7 +1954,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/biblioteca/BIB-003/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/biblioteca/BIB-003/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/biblioteca/BIB-003/"/>
@@ -1938,7 +1962,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/biblioteca/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/biblioteca/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/biblioteca/"/>
@@ -1946,7 +1970,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-001/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-001/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-001/"/>
@@ -1954,7 +1978,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-002/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-002/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-002/"/>
@@ -1962,7 +1986,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-003/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-003/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-003/"/>
@@ -1970,7 +1994,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-004/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-004/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-004/"/>
@@ -1978,7 +2002,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-005/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-005/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-005/"/>
@@ -1986,7 +2010,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-006/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-006/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-006/"/>
@@ -1994,7 +2018,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-007/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-007/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-007/"/>
@@ -2002,7 +2026,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-008/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-008/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-008/"/>
@@ -2010,7 +2034,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-009/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-009/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-009/"/>
@@ -2018,7 +2042,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-010/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-010/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-010/"/>
@@ -2026,7 +2050,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-011/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-011/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-011/"/>
@@ -2034,7 +2058,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-012/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-012/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-012/"/>
@@ -2042,7 +2066,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-013/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-013/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-013/"/>
@@ -2050,7 +2074,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-014/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-014/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-014/"/>
@@ -2058,7 +2082,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-015/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-015/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-015/"/>
@@ -2066,7 +2090,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-016/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-016/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-016/"/>
@@ -2074,7 +2098,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-017/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-017/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-017/"/>
@@ -2082,7 +2106,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-018/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-018/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-018/"/>
@@ -2090,7 +2114,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-019/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-019/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-019/"/>
@@ -2098,7 +2122,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-020/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-020/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-020/"/>
@@ -2106,7 +2130,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-021/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-021/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-021/"/>
@@ -2114,7 +2138,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-022/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-022/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-022/"/>
@@ -2122,7 +2146,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-023/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-023/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-023/"/>
@@ -2130,7 +2154,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-024/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-024/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-024/"/>
@@ -2138,7 +2162,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-025/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-025/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-025/"/>
@@ -2146,7 +2170,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-026/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-026/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-026/"/>
@@ -2154,7 +2178,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-027/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-027/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-027/"/>
@@ -2162,7 +2186,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-028/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-028/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-028/"/>
@@ -2170,7 +2194,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-029/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-029/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-029/"/>
@@ -2178,7 +2202,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-030/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-030/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-030/"/>
@@ -2186,7 +2210,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-031/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-031/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-031/"/>
@@ -2194,7 +2218,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-032/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-032/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-032/"/>
@@ -2202,7 +2226,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-033/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-033/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-033/"/>
@@ -2210,7 +2234,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-034/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-034/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-034/"/>
@@ -2218,7 +2242,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-035/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-035/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-035/"/>
@@ -2226,7 +2250,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-036/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-036/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-036/"/>
@@ -2234,7 +2258,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-037/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-037/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-037/"/>
@@ -2242,7 +2266,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-038/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-038/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-038/"/>
@@ -2250,7 +2274,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-039/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-039/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-039/"/>
@@ -2258,7 +2282,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-040/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-040/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-040/"/>
@@ -2266,7 +2290,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-041/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-041/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-041/"/>
@@ -2274,7 +2298,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-042/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-042/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-042/"/>
@@ -2282,7 +2306,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-043/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-043/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-043/"/>
@@ -2290,7 +2314,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-044/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-044/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-044/"/>
@@ -2298,7 +2322,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-045/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-045/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-045/"/>
@@ -2306,7 +2330,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-046/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-046/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-046/"/>
@@ -2314,7 +2338,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-047/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-047/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-047/"/>
@@ -2322,7 +2346,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-048/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-048/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-048/"/>
@@ -2330,7 +2354,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-049/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-049/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-049/"/>
@@ -2338,7 +2362,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-050/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-050/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-050/"/>
@@ -2346,7 +2370,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-051/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-051/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-051/"/>
@@ -2354,7 +2378,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-052/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-052/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-052/"/>
@@ -2362,7 +2386,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-053/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-053/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-053/"/>
@@ -2370,7 +2394,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-054/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-054/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-054/"/>
@@ -2378,7 +2402,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-055/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-055/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-055/"/>
@@ -2386,7 +2410,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-056/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-056/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-056/"/>
@@ -2394,7 +2418,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-057/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-057/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-057/"/>
@@ -2402,7 +2426,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-058/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-058/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-058/"/>
@@ -2410,7 +2434,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-059/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-059/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-059/"/>
@@ -2418,7 +2442,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-060/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-060/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-060/"/>
@@ -2426,7 +2450,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-061/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-061/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-061/"/>
@@ -2434,7 +2458,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-062/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-062/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-062/"/>
@@ -2442,7 +2466,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-063/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-063/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-063/"/>
@@ -2450,7 +2474,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-064/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-064/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-064/"/>
@@ -2458,7 +2482,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-065/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-065/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-065/"/>
@@ -2466,7 +2490,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-066/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-066/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-066/"/>
@@ -2474,7 +2498,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-067/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-067/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-067/"/>
@@ -2482,7 +2506,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-068/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-068/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-068/"/>
@@ -2490,7 +2514,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-069/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-069/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-069/"/>
@@ -2498,7 +2522,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-070/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-070/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-070/"/>
@@ -2506,7 +2530,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-071/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-071/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-071/"/>
@@ -2514,7 +2538,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-072/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-072/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-072/"/>
@@ -2522,7 +2546,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-073/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-073/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-073/"/>
@@ -2530,7 +2554,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-074/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-074/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-074/"/>
@@ -2538,7 +2562,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-075/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-075/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-075/"/>
@@ -2546,7 +2570,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-076/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-076/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-076/"/>
@@ -2554,7 +2578,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-077/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-077/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-077/"/>
@@ -2562,7 +2586,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-078/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-078/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-078/"/>
@@ -2570,7 +2594,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-079/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-079/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-079/"/>
@@ -2578,7 +2602,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-080/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-080/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-080/"/>
@@ -2586,7 +2610,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-081/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-081/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-081/"/>
@@ -2594,7 +2618,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-082/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-082/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-082/"/>
@@ -2602,7 +2626,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-083/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-083/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-083/"/>
@@ -2610,7 +2634,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-084/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-084/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-084/"/>
@@ -2618,7 +2642,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-085/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-085/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-085/"/>
@@ -2626,7 +2650,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-086/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-086/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-086/"/>
@@ -2634,7 +2658,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-087/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-087/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-087/"/>
@@ -2642,7 +2666,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-088/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-088/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-088/"/>
@@ -2650,7 +2674,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-089/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-089/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-089/"/>
@@ -2658,7 +2682,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-090/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-090/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-090/"/>
@@ -2666,7 +2690,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-091/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-091/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-091/"/>
@@ -2674,7 +2698,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-092/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-092/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-092/"/>
@@ -2682,7 +2706,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-093/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-093/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-093/"/>
@@ -2690,7 +2714,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-094/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-094/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-094/"/>
@@ -2698,7 +2722,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-095/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-095/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-095/"/>
@@ -2706,7 +2730,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-096/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-096/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-096/"/>
@@ -2714,7 +2738,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-097/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-097/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-097/"/>
@@ -2722,7 +2746,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-098/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-098/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-098/"/>
@@ -2730,7 +2754,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-099/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-099/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-099/"/>
@@ -2738,7 +2762,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-100/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-100/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-100/"/>
@@ -2746,7 +2770,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-101/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-101/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-101/"/>
@@ -2754,7 +2778,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-102/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-102/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-102/"/>
@@ -2762,7 +2786,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-103/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-103/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-103/"/>
@@ -2770,7 +2794,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-104/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-104/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-104/"/>
@@ -2778,7 +2802,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-105/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-105/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-105/"/>
@@ -2786,7 +2810,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-106/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-106/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-106/"/>
@@ -2794,7 +2818,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-107/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-107/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-107/"/>
@@ -2802,7 +2826,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-108/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-108/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-108/"/>
@@ -2810,7 +2834,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-109/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-109/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-109/"/>
@@ -2818,7 +2842,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/MOB-110/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/MOB-110/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/MOB-110/"/>
@@ -2826,7 +2850,7 @@
     </url>
     <url>
         <loc>https://nicocoquet.github.io/trinketa/it/inventario/</loc>
-        <lastmod>2026-09-01</lastmod>
+        <lastmod>2026-09-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://nicocoquet.github.io/trinketa/it/inventario/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://nicocoquet.github.io/trinketa/en/inventario/"/>
