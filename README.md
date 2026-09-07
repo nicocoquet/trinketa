@@ -73,10 +73,10 @@ Le point d’entrée des nouveaux livres est désormais `photos/bibliotheque/isb
 
 Procédure courante :
 
-1. ouvrir [la page de dépôt ISBN](https://nicocoquet.github.io/trinketa/depot-isbn/) depuis le bouton de la Bibliothèque ;
+1. ouvrir [la page de dépôt ISBN](https://nicocoquet.github.io/trinketa/depot-isbn/) depuis le bouton de la Bibliothèque ; les images sont réorientées, converties en JPEG et débarrassées de leurs métadonnées avant leur écriture dans GitHub ;
 2. se connecter avec un compte GitHub autorisé, déposer les photographies et fusionner la pull request de dépôt après contrôle ;
 3. cliquer sur **Lancer l’analyse** dans la même page, ou déclencher manuellement le workflow **Analyser la file ISBN** dans GitHub Actions ;
-4. le traitement lit et valide l’ISBN, interroge la BnF et Open Library, attribue le prochain `BIB-xxx` lorsque l’identification est suffisamment sûre et ouvre une nouvelle pull request ;
+4. le traitement tente successivement deux lecteurs de codes-barres puis un OCR des chiffres imprimés, valide mathématiquement l’ISBN, interroge la BnF et Open Library, attribue le prochain `BIB-xxx` lorsque l’identification est suffisamment sûre et ouvre une nouvelle pull request ;
 5. contrôler puis fusionner cette pull request. L’image est archivée dans `traite/`, ou déplacée dans `a_verifier/` si l’identification est ambiguë ;
 6. chaque traitement est consigné dans `data/bibliotheque/imports/journal.csv` et accompagné d’un rapport Markdown.
 
