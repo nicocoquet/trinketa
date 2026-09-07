@@ -13,7 +13,6 @@ import argparse
 import csv
 import json
 import re
-import shutil
 import sys
 import unicodedata
 import urllib.parse
@@ -83,28 +82,84 @@ def isbn_from_filename(path: Path) -> str:
 
 
 def isbn_from_image(path: Path) -> str:
-    """Lit un EAN-13 avec zbar après quelques transformations sans perte."""
+    """Lit un ISBN par deux moteurs de codes-barres, puis par OCR."""
     try:
         from PIL import Image, ImageOps
         if path.suffix.lower() in {".heic", ".heif"}:
             from pillow_heif import register_heif_opener
             register_heif_opener()
-        from pyzbar.pyzbar import decode
     except ImportError as error:
-        raise RuntimeError("Dépendances de lecture des codes-barres absentes.") from error
+        raise RuntimeError("Dépendances de lecture des images absentes.") from error
+
+    try:
+        from pyzbar.pyzbar import decode as zbar_decode
+    except ImportError:
+        zbar_decode = None
+    try:
+        import numpy as np
+        import zxingcpp
+    except ImportError:
+        np = zxingcpp = None
+    try:
+        import pytesseract
+    except ImportError:
+        pytesseract = None
+
+    def isbn_in_text(text: str) -> str:
+        value = digits(text)
+        for index in range(max(0, len(value) - 12)):
+            candidate = value[index:index + 13]
+            if valid_isbn13(candidate):
+                return candidate
+        return ""
 
     with Image.open(path) as source:
         source.load()
+        source = ImageOps.exif_transpose(source).convert("RGB")
         variants = [source.copy(), ImageOps.autocontrast(ImageOps.grayscale(source))]
         variants.extend(image.resize((image.width * 2, image.height * 2)) for image in list(variants))
         for image in variants:
             for angle in (0, 90, 180, 270):
                 rotated = image if angle == 0 else image.rotate(angle, expand=True)
-                for symbol in decode(rotated):
-                    value = digits(symbol.data.decode("ascii", errors="ignore"))
-                    if valid_isbn13(value):
+                if zbar_decode:
+                    for symbol in zbar_decode(rotated):
+                        value = digits(symbol.data.decode("ascii", errors="ignore"))
+                        if valid_isbn13(value):
+                            return value
+                if zxingcpp and np is not None:
+                    for symbol in zxingcpp.read_barcodes(np.asarray(rotated)):
+                        value = digits(symbol.text)
+                        if valid_isbn13(value):
+                            return value
+        if pytesseract:
+            grayscale = ImageOps.autocontrast(ImageOps.grayscale(source))
+            crops = [grayscale, grayscale.crop((0, grayscale.height // 2, grayscale.width, grayscale.height))]
+            for crop in crops:
+                enlarged = crop.resize((crop.width * 2, crop.height * 2))
+                for page_mode in (6, 11, 12):
+                    text = pytesseract.image_to_string(
+                        enlarged,
+                        config=f"--psm {page_mode} -c tessedit_char_whitelist=0123456789-",
+                    )
+                    value = isbn_in_text(text)
+                    if value:
                         return value
     return isbn_from_filename(path)
+
+
+def archive_as_jpeg(source: Path, directory: Path, filename: str) -> Path:
+    """Archive une copie JPEG réorientée, sans métadonnées."""
+    from PIL import Image, ImageOps
+    if source.suffix.lower() in {".heic", ".heif"}:
+        from pillow_heif import register_heif_opener
+        register_heif_opener()
+    target = unique_target(directory, f"{Path(filename).stem}.jpg")
+    with Image.open(source) as opened:
+        image = ImageOps.exif_transpose(opened).convert("RGB")
+        image.thumbnail((3200, 3200), Image.Resampling.LANCZOS)
+        image.save(target, format="JPEG", quality=92, optimize=True, progressive=True)
+    source.unlink()
+    return target
 
 
 def fetch(url: str) -> bytes:
@@ -339,23 +394,20 @@ def main() -> int:
         else:
             decode_message = ""
         if not isbn:
-            target = unique_target(VERIFY, image.name)
-            shutil.move(image, target)
+            target = archive_as_jpeg(image, VERIFY, image.name)
             message = decode_message or "Aucun ISBN-13 valide n’a pu être lu."
             results.append({"image": image.name, "isbn": "", "status": "À vérifier", "message": message})
             journal.append(journal_row(date_traitement=timestamp, image_source=image.name, image_archivee=str(target.relative_to(ROOT)), isbn_valide="Non", statut="a_verifier", message_controle=message))
             continue
         if isbn in known_isbns:
-            target = unique_target(VERIFY, image.name)
-            shutil.move(image, target)
+            target = archive_as_jpeg(image, VERIFY, image.name)
             message = "Cet ISBN existe déjà dans le catalogue ou le pipeline."
             results.append({"image": image.name, "isbn": isbn, "status": "Doublon à vérifier", "message": message})
             journal.append(journal_row(date_traitement=timestamp, image_source=image.name, image_archivee=str(target.relative_to(ROOT)), isbn_lu=isbn, isbn_valide="Oui", statut="doublon", message_controle=message))
             continue
         candidate, candidates, message = choose_candidate(isbn)
         if not candidate:
-            target = unique_target(VERIFY, image.name)
-            shutil.move(image, target)
+            target = archive_as_jpeg(image, VERIFY, image.name)
             results.append({"image": image.name, "isbn": isbn, "status": "À vérifier", "message": message, "candidates": candidates})
             journal.append(journal_row(date_traitement=timestamp, image_source=image.name, image_archivee=str(target.relative_to(ROOT)), isbn_lu=isbn, isbn_valide="Oui", statut="a_verifier", message_controle=message))
             continue
@@ -367,9 +419,8 @@ def main() -> int:
         candidate["Notes_controle"] = message or "ISBN contrôlé ; une notice bibliographique concordante a été trouvée."
         records.append(candidate)
         known_isbns.add(isbn)
-        archive_name = f"{book_id}_isbn_{isbn}{image.suffix.lower()}"
-        target = unique_target(DONE, archive_name)
-        shutil.move(image, target)
+        archive_name = f"{book_id}_isbn_{isbn}.jpg"
+        target = archive_as_jpeg(image, DONE, archive_name)
         notice = f"{candidate['Titre']} — {candidate.get('Auteur_editeur_scientifique', '')}".strip(" —")
         results.append({"image": image.name, "isbn": isbn, "status": f"Notice proposée : {book_id}", "notice": notice, "message": candidate["Notes_controle"]})
         journal.append(journal_row(date_traitement=timestamp, image_source=image.name, image_archivee=str(target.relative_to(ROOT)), isbn_lu=isbn, isbn_valide="Oui", bib_id=book_id, statut="proposition", source_principale=candidate.get("Source_notice"), identifiant_notice=candidate.get("Identifiant_notice"), message_controle=candidate["Notes_controle"]))
