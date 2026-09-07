@@ -273,6 +273,18 @@
 }
 .isbn-session[data-session-state="connected"] .isbn-session-dot { background: #63835f; }
 .isbn-session [data-session-label] { margin-right: auto; }
+.isbn-github-mark {
+  display: grid;
+  width: 2.15rem;
+  height: 2.15rem;
+  flex: 0 0 auto;
+  place-items: center;
+  border: 1px solid var(--isbn-border);
+  border-radius: 50%;
+  background: var(--surface);
+  color: var(--ink);
+}
+.isbn-github-mark svg { width: 1.25rem; height: 1.25rem; fill: currentColor; }
 .isbn-panel {
   position: relative;
   padding: clamp(1.3rem, 3vw, 2rem);
