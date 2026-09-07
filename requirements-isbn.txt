@@ -1,4 +1,7 @@
 openpyxl==3.1.5
+numpy==2.3.2
 Pillow==11.3.0
 pillow-heif==1.1.0
+pytesseract==0.3.13
 pyzbar==0.1.9
+zxing-cpp==2.3.0
