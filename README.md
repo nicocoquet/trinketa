@@ -73,12 +73,16 @@ Le point d’entrée des nouveaux livres est désormais `photos/bibliotheque/isb
 
 Procédure courante :
 
-1. déposer une ou plusieurs photographies dans `photos/bibliotheque/isbn/a_traiter/` ;
-2. pousser les fichiers sur `main` ;
-3. demander dans ChatGPT : **« traite la file ISBN »** ;
-4. le traitement lit et valide l’ISBN, recherche et contrôle la notice bibliographique, attribue automatiquement le prochain `BIB-xxx`, alimente `data/bibliotheque_pipeline.json`, déclenche la publication et contrôle la page publiée ;
-5. l’image est ensuite archivée sous la forme `BIB-xxx_isbn_<ISBN13>.<extension>` dans `traite/`, ou déplacée dans `a_verifier/` si l’identification n’est pas suffisamment sûre ;
-6. chaque traitement est consigné dans `data/bibliotheque/imports/journal.csv`.
+1. ouvrir [la page de dépôt ISBN](https://nicocoquet.github.io/trinketa/depot-isbn/) depuis le bouton de la Bibliothèque ;
+2. se connecter avec un compte GitHub autorisé, déposer les photographies et fusionner la pull request de dépôt après contrôle ;
+3. cliquer sur **Lancer l’analyse** dans la même page, ou déclencher manuellement le workflow **Analyser la file ISBN** dans GitHub Actions ;
+4. le traitement lit et valide l’ISBN, interroge la BnF et Open Library, attribue le prochain `BIB-xxx` lorsque l’identification est suffisamment sûre et ouvre une nouvelle pull request ;
+5. contrôler puis fusionner cette pull request. L’image est archivée dans `traite/`, ou déplacée dans `a_verifier/` si l’identification est ambiguë ;
+6. chaque traitement est consigné dans `data/bibliotheque/imports/journal.csv` et accompagné d’un rapport Markdown.
+
+Toutes les écritures passent ainsi par une branche et une pull request : la
+protection de `main` reste effective. L’analyse est un workflow GitHub
+déterministe et ne dépend plus d’un compte ChatGPT.
 
 Le classeur `inventaire_bibliotheque.xlsx` reste la base éditoriale. Le journal d’ingestion n’est qu’une trace technique destinée à la traçabilité et à la détection des doublons.
 

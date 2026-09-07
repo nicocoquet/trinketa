@@ -32,11 +32,12 @@ def existing_ids() -> set[int]:
         wb = load_workbook(WORKBOOK, read_only=True, data_only=True)
         if "Catalogue" in wb.sheetnames:
             ws = wb["Catalogue"]
-            headers = [clean(c.value) for c in ws[1]]
+            rows = ws.iter_rows(values_only=True)
+            headers = [clean(value) for value in next(rows)]
             if "ID" in headers:
-                col = headers.index("ID") + 1
-                for row in range(2, ws.max_row + 1):
-                    number = bib_number(ws.cell(row=row, column=col).value)
+                col = headers.index("ID")
+                for row in rows:
+                    number = bib_number(row[col] if col < len(row) else None)
                     if number is not None:
                         ids.add(number)
     if PIPELINE.exists():

@@ -87,6 +87,8 @@ extra_javascript:
   - javascripts/catalogue-filters.js
   - javascripts/bibliotheque-statistiques.js
   - javascripts/contact-form.js
+  - javascripts/isbn-deposit-config.js
+  - javascripts/isbn-deposit.js
 
 nav:
   - Accueil: index.md

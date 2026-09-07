@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: trinketa-isbn-auth
+    runtime: docker
+    plan: free
+    region: frankfurt
+    branch: main
+    dockerfilePath: ./service/Dockerfile
+    dockerContext: .
+    healthCheckPath: /health
+    autoDeployTrigger: off
+    envVars:
+      - key: GITHUB_CLIENT_ID
+        sync: false
+      - key: GITHUB_CLIENT_SECRET
+        sync: false
+      - key: SESSION_SECRET
+        generateValue: true
+      - key: GITHUB_REPOSITORY
+        value: nicocoquet/trinketa
+      - key: PAGES_URL
+        value: https://nicocoquet.github.io/trinketa/depot-isbn/
+      - key: ALLOWED_USERS
+        value: nicocoquet

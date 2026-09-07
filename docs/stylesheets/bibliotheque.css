@@ -182,3 +182,109 @@
   .statistics-metric { width: 100%; }
   .statistics-metric button { flex: 1; }
 }
+
+/* Dépôt collaboratif des photographies ISBN */
+.library-isbn-entry,
+.isbn-actions-link {
+  display: inline-flex;
+  gap: .45rem;
+  align-items: center;
+  color: var(--accent);
+  font-size: .78rem;
+  font-weight: 700;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+}
+.isbn-deposit {
+  --isbn-border: color-mix(in srgb, var(--ink) 18%, transparent);
+  --isbn-soft: color-mix(in srgb, var(--accent) 9%, var(--md-default-bg-color));
+  display: grid;
+  gap: 1rem;
+  margin: 1.8rem 0;
+}
+.isbn-session,
+.isbn-panel {
+  border: 1px solid var(--isbn-border);
+  background: var(--md-default-bg-color);
+}
+.isbn-session {
+  display: flex;
+  gap: .75rem;
+  align-items: center;
+  padding: .75rem 1rem;
+  font-size: .82rem;
+}
+.isbn-session-dot {
+  width: .62rem;
+  height: .62rem;
+  border-radius: 50%;
+  background: #8b8983;
+}
+.isbn-session[data-session-state="connected"] .isbn-session-dot { background: #63835f; }
+.isbn-session [data-session-label] { margin-right: auto; }
+.isbn-panel { padding: clamp(1.1rem, 3vw, 1.8rem); }
+.isbn-panel h2 { margin-top: .15rem; }
+.isbn-step {
+  margin: 0;
+  color: var(--accent);
+  font-size: .7rem;
+  font-weight: 700;
+  letter-spacing: .13em;
+  text-transform: uppercase;
+}
+.isbn-button {
+  min-height: 2.6rem;
+  padding: .6rem 1rem;
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: #fff;
+  cursor: pointer;
+  font: inherit;
+  font-size: .78rem;
+  font-weight: 700;
+}
+.isbn-button-secondary { background: transparent; color: var(--accent); }
+.isbn-button:disabled { cursor: not-allowed; opacity: .45; }
+.isbn-drop {
+  display: grid;
+  gap: .4rem;
+  justify-items: center;
+  margin: 1.25rem 0;
+  padding: 2rem 1rem;
+  border: 1px dashed color-mix(in srgb, var(--accent) 65%, transparent);
+  background: var(--isbn-soft);
+  cursor: pointer;
+  text-align: center;
+}
+.isbn-drop.is-dragging { outline: 3px solid color-mix(in srgb, var(--accent) 24%, transparent); }
+.isbn-camera { color: var(--accent); font-size: 2rem; line-height: 1; }
+.isbn-drop > span:not(.isbn-camera) { color: var(--md-default-fg-color--light); font-size: .8rem; }
+.isbn-files { margin: 0 0 1rem; padding: 0; list-style: none; }
+.isbn-files li {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: space-between;
+  padding: .6rem 0;
+  border-bottom: 1px solid var(--isbn-border);
+}
+.isbn-files li span { display: grid; min-width: 0; }
+.isbn-files li strong { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.isbn-files li small { color: var(--md-default-fg-color--light); }
+.isbn-files li[data-invalid="true"] small { color: #a13d32; }
+.isbn-files button { border: 0; background: transparent; color: inherit; cursor: pointer; font-size: 1.2rem; }
+.isbn-public { display: flex; gap: .65rem; align-items: start; margin: 1rem 0; font-size: .8rem; }
+.isbn-public input { margin-top: .2rem; }
+.isbn-submit { margin-top: .35rem; }
+.isbn-status { min-height: 1.2em; color: var(--md-default-fg-color--light); font-size: .8rem; }
+.isbn-status[data-type="error"] { color: #a13d32; }
+.isbn-status[data-type="success"] { color: #587653; }
+.isbn-result { margin-top: 1rem; padding: 1rem; border-left: 3px solid var(--accent); background: var(--isbn-soft); }
+.isbn-result > * { margin: .25rem 0; }
+.isbn-result a { display: block; font-weight: 700; }
+
+@media (max-width: 42rem) {
+  .isbn-session { align-items: stretch; flex-direction: column; }
+  .isbn-session [data-session-label] { margin-right: 0; }
+  .isbn-button { width: 100%; }
+}
