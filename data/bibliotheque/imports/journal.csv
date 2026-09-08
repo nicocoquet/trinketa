@@ -1,1 +1,2 @@
 date_traitement,image_source,image_archivee,isbn_lu,isbn_valide,bib_id,statut,source_principale,identifiant_notice,message_controle
+2026-09-07T14:20:19+00:00,IMG_3414.heic,photos/bibliotheque/isbn/traite/BIB-004_isbn_9782862760902.jpg,9782862760902,Oui,BIB-004,proposition,Open Library,/books/OL2623936M,ISBN contrôlé ; une notice bibliographique concordante a été trouvée.
